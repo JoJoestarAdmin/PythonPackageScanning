@@ -2,3 +2,12 @@ pillow
 
 numpy
 pyinstaller
+
+darts
+dash
+lifelines
+mitosheet
+plotly
+pytest
+streamlit
+causalpy
