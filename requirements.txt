@@ -11,3 +11,5 @@ plotly
 pytest
 streamlit
 causalpy
+wheel>=0.38.0 # not directly required, pinned by Snyk to avoid a vulnerability
+xgboost>=1.7.0 # not directly required, pinned by Snyk to avoid a vulnerability
