@@ -11,3 +11,6 @@ plotly
 pytest
 streamlit
 causalpy
+
+
+ipykernel
